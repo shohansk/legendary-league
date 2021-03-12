@@ -1,3 +1,20 @@
+This is my project.
+This is the website of a league.Where anyone can view all of the teams and their team details.
+
+site link: 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
