@@ -1,0 +1,10 @@
+.team-logo{
+ background-image: url(../../images/pic.jpg);
+}
+.media-image{
+    cursor: pointer;
+    width: 50px;
+}
+.back {
+    background-color: rgb(122, 122, 245);
+}
